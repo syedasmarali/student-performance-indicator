@@ -74,7 +74,7 @@ previous_scores = st.sidebar.number_input('Previous Scores', min_value=10, max_v
 sleep_hours = st.sidebar.number_input('Sleep Hours', min_value=1, max_value=12, value=5)
 
 # Practice Papers
-practice_papers = st.sidebar.number_input('Practice Papers Practiced', min_value=0, max_value=10, value=2)
+practice_papers = st.sidebar.number_input('Practice Papers Solved', min_value=0, max_value=10, value=2)
 
 # Extra curricular activities
 activity = st.sidebar.selectbox('Extra Curricular Activies', options=['Yes', 'No'])
