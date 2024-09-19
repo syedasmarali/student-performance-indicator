@@ -59,7 +59,7 @@ This project focuses on predicting the student performance indicators using regr
   streamlit run src/app.py
 
 
-## Techhnologies Used
+## Technologies Used
 
 - Python: For data analysis and regression model.
 - Streamlit: For building the web app and creating the dashboard.
