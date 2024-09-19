@@ -32,7 +32,7 @@ This project focuses on predicting the student performance indicators using regr
 
 - Clone the repository:
    ```bash
-   git clone https://github.com/syedasmarali/fridge-price-predictor.git](https://github.com/syedasmarali/student-performance-indicator.git
+   git clone https://github.com/syedasmarali/student-performance-indicator.git
    
 - Navigate into the project directory:
   ```bash
